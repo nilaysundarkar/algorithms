@@ -4,4 +4,4 @@
 
 Chapter 2
 
-[Loop Invariant] (Algo-Cormen-Book/Chapter2/Notes.md)
+[Loop Invariant] (https://github.com/nilaysundarkar/algorithms/blob/main/Algo-Cormen-Book/Chapter2/Notes.md)
