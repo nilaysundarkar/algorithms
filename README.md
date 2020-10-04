@@ -20,4 +20,6 @@ Notes -
         * 2.1-3 Linear Search
             * [Linear Search Pseudo code](Algo-Cormen-Book/Chapter2/2.1/Notes.md#linear-search-pseudo-code)
             * [Linear Search Loop Invariant](Algo-Cormen-Book/Chapter2/2.1/Notes.md#linear-search-loop-invariant)
+        * 2.1-4 Adding 2 binary integers
+            * [Pseudo code](Algo-Cormen-Book/Chapter2/2.1/Notes.md#add-2-n-bit-binary-integers)  
                     
