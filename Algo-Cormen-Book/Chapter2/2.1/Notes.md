@@ -1,6 +1,6 @@
 # Insertion Sort
 
-###### Psuedo code
+#Psuedo code
 ````
 for j = 2 to A.length
     key = A[j]
