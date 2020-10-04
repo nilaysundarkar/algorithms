@@ -4,4 +4,4 @@
 
 Chapter 2
 
-[Loop Invariant](Chapter2/Notes.md)
+[Loop Invariant](Algo-Cormen-Book/Chapter2/Notes.md)
