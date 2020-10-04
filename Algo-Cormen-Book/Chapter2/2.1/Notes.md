@@ -32,7 +32,7 @@ return NULL
 ````
 ###### Linear Search Loop Invariant
 
-If A[i] matches the value being searched, return and exit, else increase i by 1
+If A[i] matches the value being searched, return and exit, else increase i by 1. Return NULL if no match is found after scanning all items.
 
 **Initialization** - At i =0, if the value matches program exits
 
